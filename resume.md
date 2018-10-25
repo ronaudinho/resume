@@ -1,6 +1,6 @@
-Audi Prasetya Risa Putra
-Malang/Jakarta
-doelaudi@gmail.com
+Audi Prasetya Risa Putra  
+Malang/Jakarta  
+doelaudi@gmail.com  
 
 | Education |
 |-|
@@ -11,7 +11,8 @@ _Bachelor of Information Technology_
 _Science Stream_
 
 | Technical Skills |
-|-|
+|-|  
+
 `Java, Python, Node.js, PHP, SQLs, Linux`
 
 | Work Experience |
