@@ -13,12 +13,12 @@ _Science Stream_
 | Technical Skills |
 |-|  
 
-`Java, Python, Node.js, PHP, SQLs, Linux`
+`Go, Java, Python, Linux, AWS, Node.js, PHP, SQL/NoSQL`
 
 | Work Experience |
 |-|
 + ___2018___  
-    + __PT Asani Teknologi Keuangan__  _Software Engineer_
+    + __SpaceStock__ _DevOps/Data Engineer_
 + ___2017___  
     + __Cartenz Technology Indonesia__  _Senior Web Developer (Backend)_
 
