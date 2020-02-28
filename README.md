@@ -13,14 +13,30 @@ _Science Stream_
 | Technical Skills |
 |-|  
 
-`Go, Java, Python, Linux, AWS, Node.js, PHP, SQL/NoSQL`
+`Go, Java, Python, Linux, AWS, PHP, SQL/NoSQL`
 
 | Work Experience |
 |-|
 + ___2018___  
     + __SpaceStock__ _DevOps/Data Engineer_
+        
+	+ __DevOps__
+	    + CI/CD pipeline (`CircleCI`)
+	    + AWS architecture for microservices in monorepo (`Docker`, `ECS`, `KrakenD`, `NSQ`)
+	    + Internal deployment tool (`Go`, `Bash`)
+	+ __Data Engineer__
+		+ Data pipeline for analytics purpose (`Airflow`, `BigQuery`, `MongoDB`, `Redash`)
+		+ Web tracking system (`JavaScript`, `Go`, `MongoDB`)
+		+ Ads posting (`Go`, `MongoDB`)
+	+ __Miscellaneous__
+		+ Internal tools for bug reports and tracking (`Go`, `Svelte`, `BoltDB`)
+		+ API Generator for microservices (`Go`)
 + ___2017___  
-    + __Cartenz Technology Indonesia__  _Senior Web Developer (Backend)_
+    + __Cartenz Technology Indonesia__  _Senior Web Developer (Backend)_  
+        
+	+ Frontend Web Engineer (`PHP`, `MySQL`)
+	+ Lead Backend Engineer for team (`Java`, `MySQL`)
+	+ Ad hoc DevOps for development environment (`VSTS`)
 
 | Campus/Community Activities |
 |-|
