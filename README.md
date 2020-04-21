@@ -27,7 +27,7 @@ _Science Stream_
 + ___2008___  
     + Vice President of Anglican House Student Council
 + ___2009___  
-    + Vice-President of NTU Muslim Society Sports Event
+    + Vice President of NTU Muslim Society Sports Event
 + ___2010___  
     + Captain of NTU Hall 6 Takraw Team
 	+ Futsal Coach for Indonesian Student Association at NUS (2010 - 2015)
