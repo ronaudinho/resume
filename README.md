@@ -49,5 +49,5 @@ _Science Stream_
 | Talks |
 |-|
 + ___2020___  
-    + Ordered Advance: Transforming Raw Data into Information - for Facebook Developer Circle: Malang 
-    + [Interfeces in Go](https://github.com/ronaudinho/iig) - for Ngalam Backend Community
+    + Ordered Advance: Transforming Raw Data into Information - for `Facebook Developer Circle: Malang`
+    + [Interfeces in Go](https://github.com/ronaudinho/iig) - for `Ngalam Backend Community`
