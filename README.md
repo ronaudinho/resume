@@ -31,3 +31,9 @@ _Science Stream_
 + ___2010___  
     + Captain of NTU Hall 6 Takraw Team
 	+ Futsal Coach for Indonesian Student Association at NUS (2010 - 2015)
+
+| Talks |
+|-|
++ ___2020___  
+    + Ordered Advance: Transforming Raw Data into Information - for `Facebook Developer Circle: Malang`
+    + [Interfeces in Go](https://github.com/ronaudinho/iig) - for `Ngalam Backend Community`
