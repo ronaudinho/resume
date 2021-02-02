@@ -17,6 +17,9 @@ _Science Stream_
 
 | Work Experience |
 |-|
++ ___2019___
+  + __ProSpace__ _Senior Backend Engineer_
+    + Backend Engineer (`Go`, `PostgreSQL`)
 + ___2018___
   + __SpaceStock__ _DevOps/Data Engineer_
     + __DevOps__
