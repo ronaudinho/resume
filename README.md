@@ -17,6 +17,8 @@ _Science Stream_
 
 | Work Experience |
 |-|
++ ___2019___  
+    + __ProSpace__ _Senior Backend Engineer_
 + ___2018___  
     + __SpaceStock__ _DevOps/Data Engineer_
 + ___2017___  
